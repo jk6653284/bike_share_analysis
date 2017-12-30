@@ -1,11 +1,9 @@
 ---
 title: "bikesharing_analysis"
-author: "Group C"
+author: "Jina Kim"
 date: "12/16/2017"
 output: html_document
 ---
-
-Group C Members: Alexandre Olivier, Anchal Jaiswal, Asier sarasua Amundarain, Ignacio Rupérez Larrea, Jina Kim, Nicolas Clemens Linsenmaier, Rahul Singh
 
 
 
